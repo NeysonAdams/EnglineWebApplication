@@ -1,0 +1,19 @@
+.header {
+    background-color: black;
+  }
+
+  .header__container
+  {
+    font-family: "Manrope", sans-serif;
+    max-width: 1440px;
+    display: flex;
+    justify-content: space-between;
+    margin:  0 auto;
+    padding: 0 50px;
+  }
+
+  .header__logo {
+    width: 84px;
+    height: 84px;
+    margin: 36px 0;
+  }

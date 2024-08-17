@@ -1,0 +1,70 @@
+.policy__container
+{
+    font-family: "Manrope", sans-serif;
+    max-width: 1440px;
+    margin:  0 auto;
+    padding: 0 50px;
+    color: white;
+    padding-bottom: 50px;
+}
+.policy__title
+{
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 89px;
+}
+
+.policy__date-label
+{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 41px;
+}
+
+.policy__date{
+    font-weight: 400;
+}
+
+.policy__warning
+{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 41px;
+    text-align: center;
+}
+
+.policy__body
+{
+    background-color: rgba(206, 206, 255, 1);
+    font-family: "Manrope", sans-serif;
+    max-width: 1440px;
+    margin:  0 auto;
+    padding: 50PX 50px;
+}
+
+.policy__description-extra
+{
+    font-weight: 700;
+}
+
+.policy__description
+{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 41px;
+}
+
+.policy__chapter
+{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 59px;
+}
+
+.policy__subchapter
+{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 49px;
+}

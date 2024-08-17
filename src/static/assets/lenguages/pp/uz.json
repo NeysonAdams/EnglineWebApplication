@@ -1,0 +1,153 @@
+{
+    "title": "ELE Maxfiylik Siyosati",
+    "label": "Amal qilish sanasi: ",
+    "date": "13.08.2024",
+    "warning": "Engline, MChJ (bundan keyin \"biz,\" \"bizning,\" \"bizga\" yoki \"ELE\" deb ataladi) sizning maxfiyligingizni himoya qilish va hurmat qilish majburiyatini oladi. Ushbu Maxfiylik Siyosati ELE mobil ilovasidan (\"Ilova\") foydalanganingizda biz qanday ma'lumotlarni to'playmiz, ishlatamiz va ulashamiz, tushuntiradi.",
+    "chapters": [
+        {
+            "description": "Ilovadan foydalanish orqali siz ushbu Maxfiylik Siyosatiga muvofiq ma'lumotlarni to'plash va ulardan foydalanishga rozilik bildirasiz. Agar siz ushbu Maxfiylik Siyosati shartlariga rozi bo'lmasangiz, ilovadan foydalanmang."
+        },
+        {
+            "title": "1. Biz to'playdigan ma'lumotlar",
+            "subtitles": [
+                {
+                    "title": "1.1 Shaxsiy ma'lumotlar",
+                    "description": "Biz siz ilovadan foydalanganda to'g'ridan-to'g'ri taqdim etadigan shaxsiy ma'lumotlarni to'plashimiz mumkin, shu jumladan, ammo ular bilan cheklanmagan holda:",
+                    "list": [
+                        {
+                            "text": "Ism"
+                        },
+                        {
+                            "text": "Elektron pochta manzili"
+                        },
+                        {
+                            "text": "Profil ma'lumotlari",
+                            "subtext": "(masalan, yosh, jins yoki afzalliklar)"
+                        },
+                        {
+                            "text": "To'lov ma'lumotlari",
+                            "subtext": "(agar ilova orqali xarid qilsangiz)"
+                        }
+                    ]
+                },
+                {
+                    "title": "1.2 Foydalanish ma'lumotlari",
+                    "description": "Biz sizning ilovaga qanday kirganingiz va undan qanday foydalanganingiz haqidagi ma'lumotlarni to'plashimiz mumkin, jumladan:",
+                    "list": [
+                        {
+                            "text": "Qurilma ma'lumotlari: ",
+                            "subtext": "Model, operatsion tizim, noyob qurilma identifikatorlari."
+                        },
+                        {
+                            "text": "Log ma'lumotlari: ",
+                            "subtext": "IP manzili, brauzer turi va versiyasi, tashrif buyurgan ilova sahifalari, tashrif vaqti va sanasi, ushbu sahifalarda o'tkazilgan vaqt va boshqa diagnostika ma'lumotlari."
+                        },
+                        {
+                            "text": "Joylashuv ma'lumotlari: ",
+                            "subtext": "Agar ruxsat bersangiz, biz qurilmangizning joylashuvini to'plashimiz va saqlashimiz mumkin."
+                        }
+                    ]
+                },
+                {
+                    "title": "1.3 Foydalanuvchi tomonidan yaratilgan kontent",
+                    "description": "Ilova sizga ovozli yozuvlar, matn kiritish va javoblar kabi kontent yaratish va yuklash imkonini berishi mumkin. Biz bu kontentni qayta ishlash va o'rganish tajribasini yaxshilash uchun tahlil qilishimiz mumkin."
+                },
+                {
+                    "title": "1.4 Cookies va kuzatuv texnologiyalari",
+                    "description": "Biz ilovadagi faoliyatingizni kuzatish va ma'lum ma'lumotlarni saqlash uchun cookies va o'xshash kuzatuv texnologiyalaridan foydalanishimiz mumkin. Cookies - bu kichik miqdordagi ma'lumotlarni, jumladan anonim noyob identifikatorni o'z ichiga olishi mumkin bo'lgan fayllardir."
+                }
+            ]
+        },
+        {
+            "title": "2. Ma'lumotlaringizdan qanday foydalanamiz",
+            "description": "Biz to'plangan ma'lumotlardan quyidagi yo'llar bilan foydalanamiz:",
+            "list": [
+                {
+                    "text": "Ilovani taqdim etish va saqlash uchun: ",
+                    "subtext": "Ilovaning funktsional imkoniyatlarini yaxshilash uchun uning qanday foydalanilishini tahlil qilish."
+                },
+                {
+                    "text": "Tajribaingizni shaxsiylashtirish uchun: ",
+                    "subtext": "Kontent va funksiyalarni sizning afzalliklaringiz va o'rganish jarayoningizga moslashtirish."
+                },
+                {
+                    "text": "Siz bilan muloqot qilish uchun: ",
+                    "subtext": "Yangilanishlar, yangiliklar, reklama materiallari va sizni qiziqtirishi mumkin bo'lgan boshqa ma'lumotlarni yuborish."
+                },
+                {
+                    "text": "To'lovlar uchun: ",
+                    "subtext": "Ilova orqali xaridlar amalga oshirish uchun."
+                },
+                {
+                    "text": "Tahlillar uchun: ",
+                    "subtext": "Foydalanuvchilar ilovadan qanday foydalanganligini tushunish va xizmatlarimizni yaxshilash."
+                },
+                {
+                    "text": "Xavfsizlik uchun: ",
+                    "subtext": "Ilovaning xavfsizligi va yaxlitligini ta'minlash uchun foydalanish va faoliyat tendensiyalarini kuzatish va tahlil qilish."
+                }
+            ]
+        },
+        {
+            "title": "3. Ma'lumotlaringizni ulashish",
+            "description": "Biz ma'lumotlaringizni quyidagi holatlarda ulashishimiz mumkin:",
+            "list": [
+                {
+                    "text": "Xizmat ko'rsatuvchilar bilan: ",
+                    "subtext": "Biz ilovamizni qulaylashtirish, ilovani bizning nomimizdan taqdim etish, ilova bilan bog'liq xizmatlarni bajarish yoki ilovamizdan qanday foydalanilishini tahlil qilishda yordam berish uchun uchinchi tomon kompaniyalar va shaxslarni ishga olishimiz mumkin."
+                },
+                {
+                    "text": "Qonuniy sabablarga ko'ra: ",
+                    "subtext": "Agar qonun talab qilsa yoki davlat organlarining (masalan, sud yoki hukumat agentligi) haqiqiy so'rovlariga javoban."
+                },
+                {
+                    "text": "Biznes o'zgarishlarida: ",
+                    "subtext": "Agar biz birlashuv, sotib olish yoki aktivlarni sotish bilan bog'liq bo'lsak, ma'lumotlaringiz ushbu tranzaktsiya doirasida o'tkazilishi mumkin."
+                }
+            ]
+        },
+        {
+            "title": "4. Sizning huquqlaringiz",
+            "description": "Shaxsiy ma'lumotlaringiz bo'yicha quyidagi huquqlarga egasiz:",
+            "list": [
+                {
+                    "text": "Kirish: ",
+                    "subtext": "Shaxsiy ma'lumotlaringizdagi har qanday noaniqliklarni tuzatishni so'rashingiz mumkin."
+                },
+                {
+                    "text": "Tuzatish: ",
+                    "subtext": "Shaxsiy ma'lumotlaringizdagi har qanday noaniqliklarni tuzatishni so'rashingiz mumkin."
+                },
+                {
+                    "text": "O'chirish: ",
+                    "subtext": "Siz shaxsiy ma'lumotlaringizni ma'lum istisnolardan tashqari o'chirishni so'rashingiz mumkin."
+                },
+                {
+                    "text": "E'tiroz bildirish: ",
+                    "subtext": "Siz ba'zi holatlarda shaxsiy ma'lumotlaringizni qayta ishlashga e'tiroz bildirishingiz mumkin."
+                },
+                {
+                    "text": "Ma'lumotlarni ko'chirish: ",
+                    "subtext": "Shaxsiy ma'lumotlaringizning nusxasini tuzilgan, mashinada o'qiladigan formatda so'rashingiz mumkin."
+                }
+            ],
+            "subdescription": "Ushbu huquqlardan birortasini amalga oshirish uchun biz bilan admin@eletalk.uz manzilida bog'laning"
+        },
+        {
+            "title": "5. Ma'lumotlaringizning xavfsizligi",
+            "description": "Biz sizning ma'lumotlaringiz xavfsizligini jiddiy qabul qilamiz va uni himoya qilish uchun tijorat jihatdan asosli choralarni ko'ramiz. Biroq, internet orqali uzatish yoki elektron saqlashning hech qanday usuli 100% xavfsiz emas va biz uning mutlaq xavfsizligini kafolatlay olmaymiz."
+        },
+        {
+            "title": "6. Xalqaro ma'lumotlar uzatish",
+            "description": "Sizning ma'lumotlaringiz, shu jumladan shaxsiy ma'lumotlaringiz, sizning davlat, viloyat, mamlakat yoki boshqa davlat yurisdiktsiyasidan tashqarida joylashgan kompyuterlarga uzatilishi va saqlanishi mumkin, bu erda ma'lumotlarni himoya qilish qonunlari sizning yurisdiktsiyangizdagidan farq qilishi mumkin. Ilovadan foydalanish orqali siz bunday uzatishlarga rozilik bildirasiz."
+        },
+        {
+            "title": "7. Bolalarning maxfiyligi",
+            "description": "Ilova 13 yoshgacha bo'lgan bolalar uchun mo'ljallanmagan. Biz 13 yoshgacha bo'lgan bolalardan shaxsiy ma'lumotlarni ataylab to'plamaymiz. Agar biz 13 yoshgacha bo'lgan bola bizga shaxsiy ma'lumotlarini taqdim etganidan xabardor bo'lsak, bunday ma'lumotlarni tizimlarimizdan o'chirib tashlaymiz."
+        },
+        {
+            "title": "8. Ushbu Maxfiylik Siyosatiga o'zgartirishlar",
+            "description": "Biz vaqti-vaqti bilan Maxfiylik Siyosatimizni yangilashimiz mumkin. Biz yangi Maxfiylik Siyosatini ushbu sahifada joylashtirish va ushbu Maxfiylik Siyosatining \"Amal qilish sanasi\" ni yangilash orqali har qanday o'zgarishlar haqida sizga xabar beramiz."
+        }
+    ]
+}

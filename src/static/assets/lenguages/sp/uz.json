@@ -1,0 +1,74 @@
+{
+    "nav": {
+        "main": "Asosiy",
+        "about": "Nega biz",
+        "popular": "Mashhur Kurslar",
+        "questions": "Savollar",
+        "button": "Boshlash"
+    },
+    "main": {
+        "title": "ELE - Sun'iy Intellekt bilan Onlayn Ingliz Tili Kurslari",
+        "subtitle": "Biznes ingliz tili va tibbiyot uchun ingliz tili kurslarini o'ting va suhbatlashish ko'nikmalaringizni rivojlantiring!",
+        "download": "Yuklab olish"
+    },
+    "about": {
+        "title": "Nima uchun ingliz tilini tanlaydilar",
+        "cards": [
+            {
+                "title": "Sun'iy Intellekt",
+                "description": "Sun'iy Intellekt suhbatlashish ko'nikmalaringizni onlayn ravishda rivojlantirishga yordam beradi"
+            },
+            {
+                "title": "24/7",
+                "description": "Dunyoning istalgan joyidan, sizga qulay vaqtda o'qing"
+            },
+            {
+                "title": "77%",
+                "description": "So'rovnomada qatnashgan talabalar ELE kurslari ularning karyeralarini rivojlantirishda yordam berganini aytishdi"
+            },
+            {
+                "title": "Daqiqa",
+                "description": "Bizning ilovamizda yangi mavzuni o'zlashtirish uchun o'rtacha vaqt"
+            }
+        ]
+    },
+    "popular": {
+        "title": "Mashhur Kurslar",
+        "cards": [
+            {
+                "title": "Shifokorlar uchun Ingliz Tili",
+                "description": "Kurs shifokorlar uchun mo'ljallangan bo'lib, ular o'z karyera imkoniyatlarini kengaytirmoqchi"
+            },
+            {
+                "title": "Biznes Ingliz Tili",
+                "description": "Kurs karyerangiz va biznesingizda yangi darajaga chiqmoqchi bo'lganlar uchun mos keladi"
+            }
+        ],
+        "down-panel": {
+            "title": "Darhol Yuklab Oling!",
+            "subtitle": "Ilovamizni hoziroq yuklab oling va istalgan vaqtda, istalgan joyda ingliz tilini o'rganing"
+        }
+    },
+    "questions": {
+        "title": "Savollar",
+        "questions": [
+            {
+                "question": "ELE-ni bepul sinab ko'rishim mumkinmi?",
+                "answer": "Ha, bizning ilovamizda ba'zi kurslar va mashqlar bepul mavjud! ELE-ni Google Play-dan yuklab oling!"
+            },
+            {
+                "question": "ELE yordamida suhbatlashish ko'nikmalarimni qanday yaxshilay olaman?",
+                "answer": "Bizda mashqlar mavjud bo'lib, unda sizga og'zaki savol beriladi va javobingizni yozib olishingiz kerak bo'ladi. Sun'iy Intellekt nutqingizni tahlil qiladi, xatolarni tuzatadi yoki nutqingizni yaxshilash bo'yicha tavsiyalar beradi!"
+            },
+            {
+                "question": "ELE bilan darslarga qanday to'lov qilaman?",
+                "answer": "Sizga yoqqan kursni tanlab, HUMO/UZCARD kartangiz ma'lumotlarini kiriting, shundan so'ng pullik kurslarimizdan foydalanish mumkin bo'ladi. Obunani har qanday vaqtda profil sozlamalarida bekor qilishingiz mumkin"
+            }
+        ]
+    },
+    "footer": {
+        "subtitle": "ELE ilovasida ingliz tilini qulay tarzda o'rganing",
+        "title1": "Navigatsiya",
+        "title2": "Bizning Kontaktlarimiz"
+    }
+}

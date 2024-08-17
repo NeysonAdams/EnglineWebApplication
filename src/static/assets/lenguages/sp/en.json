@@ -1,0 +1,74 @@
+{
+    "nav": {
+        "main": "Main",
+        "about": "Why Us",
+        "popular": "Popular Courses",
+        "questions": "Questions",
+        "button": "Get Started"
+    },
+    "main": {
+        "title": "ELE - Online English Courses with AI",
+        "subtitle": "Take business English and medical English courses, and improve your conversational skills!",
+        "download": "Download on"
+    },
+    "about": {
+        "title": "Why choose to learn English with",
+        "cards": [
+            {
+                "title": "AI",
+                "description": "Artificial Intelligence will help you improve your conversational skills online"
+            },
+            {
+                "title": "24/7",
+                "description": "Study from anywhere in the world at a time convenient for you"
+            },
+            {
+                "title": "77%",
+                "description": "Surveyed students said that eLe courses helped them advance in their careers"
+            },
+            {
+                "title": "Minutes",
+                "description": "The average time to master a new topic in our app"
+            }
+        ]
+    },
+    "popular": {
+        "title": "Popular Courses",
+        "cards": [
+            {
+                "title": "English for Doctors",
+                "description": "The course is suitable for doctors who want to expand their career opportunities"
+            },
+            {
+                "title": "Business English",
+                "description": "The course is suitable for those who want to reach a new level in their career and business"
+            }
+        ],
+        "downpanel": {
+            "title": "Download Now!",
+            "subtitle": "Download our app now and learn English comfortably anytime, anywhere"
+        }
+    },
+    "questions": {
+        "title": "Questions",
+        "questions": [
+            {
+                "question": "Can I try ELE for free?",
+                "answer": "Yes, some courses and exercises in our app are available for free! Download ELE on Google Play!"
+            },
+            {
+                "question": "How can I improve my conversational skills with ELE?",
+                "answer": "We have exercises where you will be asked to answer a question orally and record your answer. Artificial Intelligence will analyze your speech, correct errors, or provide recommendations for improvement!"
+            },
+            {
+                "question": "How do I pay for lessons with ELE?",
+                "answer": "You need to click on the course you like and enter your HUMO/UZCARD details, after which our paid courses will be available to you. You can cancel your subscription anytime in profile settings."
+            }
+        ]
+    },
+    "footer": {
+        "subtitle": "Learn English comfortably with the ELE app",
+        "title1": "Navigation",
+        "title2": "Our Contacts"
+    }
+}
